@@ -1,6 +1,6 @@
 # Arquivos de teste
 
-repositório é utilizado para armazenar e servir arquivos públicos, ativos de teste, assets de projetos e dados temporários/experimentais.
+Este repositório é utilizado para armazenar e servir arquivos públicos, ativos de teste, assets de projetos e dados temporários/experimentais.
 
 ## 📌 Finalidade
 - **Hospedagem de Ativos:** Imagens, documentos, JSONs e arquivos estáticos para consumo em APIs ou aplicações.
